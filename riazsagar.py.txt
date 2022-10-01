@@ -37,9 +37,10 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
+  
+█▄▄ ▄▀█ █░█░█ ▄▀█
+█▄█ █▀█ ▀▄▀▄▀ █▀█
  
-   █▄▄ ▄▀█ █░█░█ ▄▀█
-   █▄█ █▀█ ▀▄▀▄▀ █▀█
    THE ANONYMOUS BAWA TRICKER 
    THE LEGEND BAWA
    THE GAME CHANGER BAWA
